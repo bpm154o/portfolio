@@ -11,7 +11,7 @@ export default function Home() {
         <section id="fv">
           <div className="w_inner">
             <div className="fv_top">
-              <p className="fv_intro">bellFaceから<br className="sp"/><span className="orange">“リモートお申し込みプラン”</span>誕生。</p> 
+              <p className="fv_intro">bellFaceから<br className="sp"/><span className="orange">“リモートお申し込みプラン”</span>誕生。</p>
               <h1>オンライン営業で<br/>お申し込みまで<br className="sp" />完結！</h1>
               <div className="dl_wrap">
                 <div className="dl_box">
@@ -28,7 +28,7 @@ export default function Home() {
             <p className="scroll"></p>
           </div>
         </section>
-        
+
         <section id="sec_01">
           <div className="sec01_box01">
             <div className="box01_item01">
@@ -42,17 +42,17 @@ export default function Home() {
               <h3>「紙」と「Webフォーム」お申し込み<br className="sp"/>方法による差はあるのでしょうか？</h3>
               <ul className="item01_graph01">
                 <li><h4><span>紙の書類でのお申し込み</span><br/>お申し込みの手続きをした際、<br/>何かしら面倒に感じましたか？</h4>
-                <img src="/_nuxt/img/sec01_graph01_01.094cbb2.png" /></li> 
-                <li><h4><span>Webフォームでのお申し込み</span><br/>お申し込みの手続きをした際、<br/>何かしら面倒に感じましたか？</h4> <img src="/_nuxt/img/sec01_graph01_02.833208e.png"/></li>
+                <img src="/images/lp/lp01/sec01_graph01_01.png" /></li>
+                <li><h4><span>Webフォームでのお申し込み</span><br/>お申し込みの手続きをした際、<br/>何かしら面倒に感じましたか？</h4> <img src="/images/lp/lp01/sec01_graph01_02.833208e.png"/></li>
               </ul>
               <span className="note">2021年 ベルフェイス調べ</span></div>
               <div className="box02_item02">
-                <h3>では、何を“面倒”に<br className="sp"/>感じているのでしょうか？</h3> 
+                <h3>では、何を“面倒”に<br className="sp"/>感じているのでしょうか？</h3>
                 <ul className="item02_graph01">
                   <li><h4><span>紙の書類でのお申し込み</span><br/>面倒に感じたのはどんなシーンでしたか？</h4>
-                    <img src="/_nuxt/img/sec01_graph02_01.eda837a.png"/></li>
+                    <img src="/images/lp/lp01/sec01_graph02_01.png"/></li>
                   <li><h4><span>Webフォームでのお申し込み</span><br/>面倒に感じたのはどんなシーンでしたか？</h4>
-                    <img src="/_nuxt/img/sec01_graph02_02.78b77a0.png"/></li>
+                    <img src="/images/lp/lp01/sec01_graph02_02.png"/></li>
                 </ul>
                 <span className="note">2021年 ベルフェイス調べ</span>
               </div>
@@ -74,7 +74,7 @@ export default function Home() {
                         <li>仕様</li>
                       </ul>
                       <p className="image">
-                        <img src="/_nuxt/img/rcBook_pc.7f2037b.png"/>
+                        <img src="/images/lp/lp01/rcBook_pc.7f2037b.png"/>
                       </p>
                       <a className="dl_button">今すぐ資料ダウンロード</a>
                     </div>
@@ -86,7 +86,7 @@ export default function Home() {
                         <li>実際に弊社営業から<br className="sp"/>デモを体感できる</li>
                         <li>その場で質問できる</li>
                       </ul>
-                      <p className="image"><img src="/_nuxt/img/sec01_operator.2d36f05.png"/></p> 
+                      <p className="image"><img src="/images/lp/lp01/sec01_operator.png"/></p>
                       <a className="dl_button">今すぐ無料デモ体験</a>
                     </div>
                   </li>
@@ -108,32 +108,32 @@ export default function Home() {
                 <ul>
                   <li className="item01_group">
                     <div className="circle">
-                      <img src="/_nuxt/img/sec02_01.71fc6b3.png" className="number"/>
-                      <p>失注率・離脱率の<br/>低下</p> 
-                      <img src="/_nuxt/img/sec02_01_hand.4d1f55d.png" className="bottom"/>
+                      <img src="/images/lp/lp01/sec02_01.png" className="number"/>
+                      <p>失注率・離脱率の<br/>低下</p>
+                      <img src="/images/lp/lp01/sec02_01_hand.png" className="bottom"/>
                     </div>
                     <p className="text">心変わり、競合への流出、<br className="sp"/>新たなネックの発生など<br className="sp"/>による<br className="pc"/>失注や離脱の防止</p>
                   </li>
                   <li className="item01_group">
-                    <p className="text">契約見込み数の精度の向上、<br/>ビジネス推進スピードの向上、<br className="sp"/>キャッシュインフローの改善</p> 
-                    <div className="circle"><img src="/_nuxt/img/sec02_02.696f068.png" className="number"/> 
-                      <p>リードタイムの<br/>短縮</p> <img src="/_nuxt/img/sec02_02_hand.0943886.png" className="bottom"/>
+                    <p className="text">契約見込み数の精度の向上、<br/>ビジネス推進スピードの向上、<br className="sp"/>キャッシュインフローの改善</p>
+                    <div className="circle"><img src="/images/lp/lp01/sec02_02.png" className="number"/>
+                      <p>リードタイムの<br/>短縮</p> <img src="/images/lp/lp01/sec02_02_hand.png" className="bottom"/>
                     </div>
                   </li>
-                    
+
                   <li className="item01_group">
                     <div className="circle">
-                      <img src="/_nuxt/img/sec02_03.2e6b597.png" className="number"/> 
-                      <p>対応コストの<br/>削減</p> <img src="/_nuxt/img/sec02_03_hand.4e3a641.png" className="bottom"/>
+                      <img src="/images/lp/lp01/sec02_03.png" className="number"/>
+                      <p>対応コストの<br/>削減</p> <img src="/images/lp/lp01/sec02_03_hand.png" className="bottom"/>
                     </div>
                     <p className="text">「口頭内示からお申し込み」<br className="sp"/>フェーズにおける<br className="pc"/>営業対応コスト、<br className="sp"/>回収作業コストの削減</p>
                   </li>
-                  
+
                   <li className="item01_group">
                     <p className="text">オンラインで完結する<br/>スムーズでリアルタイムな<br className="sp"/>顧客体験の提供</p>
                     <div className="circle">
-                      <img src="/_nuxt/img/sec02_04.4c4bcc6.png" className="number"/>
-                      <p>顧客体験の向上</p> <img src="/_nuxt/img/sec02_04_hand.899075e.png" className="bottom"/>
+                      <img src="/images/lp/lp01/sec02_04.png" className="number"/>
+                      <p>顧客体験の向上</p> <img src="/images/lp/lp01/sec02_04_hand.png" className="bottom"/>
                     </div>
                   </li>
                 </ul>
@@ -141,19 +141,19 @@ export default function Home() {
 
               <div className="box02_item02">
                 <h3>ストレスフリーのひみつ</h3>
-                <p>これまで、システムやアプリケーションを用いて対面で実施していたお申し込みプロセスを<br/>オンライン営業の延長で完結することができます。</p> 
+                <p>これまで、システムやアプリケーションを用いて対面で実施していたお申し込みプロセスを<br/>オンライン営業の延長で完結することができます。</p>
                 <div className="item02_image">
-                  <img src="/_nuxt/img/sec02_host-guest_pc.8bd47d3.png" className="pc"/>
-                  <img src="/_nuxt/img/sec02_host-guest_sp.f2069ff.png" className="sp"/>
+                  <img src="/images/lp/lp01/sec02_host-guest_pc.png" className="pc"/>
+                  <img src="/images/lp/lp01/sec02_host-guest_sp.png" className="sp"/>
                 </div>
               </div>
               <div className="box02_item03">
                 <h3>現場を熟知したうれしい機能</h3>
                 <ul>
-                  <li><p>顧客側はインストールなどの<br/>事前準備が不要</p> <img src="/_nuxt/img/sec02_function01.c5091ea.png"/></li>
-                  <li><p>顧客が操作できるページは<br/>営業側で制限できる</p> <img src="/_nuxt/img/sec02_function02.68968e9.png"/></li>
-                  <li><p>顧客がスマートフォンでも<br/>ご利用可能</p> <img src="/_nuxt/img/sec02_function03.a78b6d3.png"/></li>
-                  <li><p>操作が記録されるので、<br/>トラブル発生時も調査ができる</p> <img src="/_nuxt/img/sec02_function04.b8a9b3c.png"/></li>
+                  <li><p>顧客側はインストールなどの<br/>事前準備が不要</p> <img src="/images/lp/lp01/sec02_function01.png"/></li>
+                  <li><p>顧客が操作できるページは<br/>営業側で制限できる</p> <img src="/images/lp/lp01/sec02_function02.png"/></li>
+                  <li><p>顧客がスマートフォンでも<br/>ご利用可能</p> <img src="/images/lp/lp01/sec02_function03.png"/></li>
+                  <li><p>操作が記録されるので、<br/>トラブル発生時も調査ができる</p> <img src="/images/lp/lp01/sec02_function04.png"/></li>
                 </ul>
               </div>
             </div>
@@ -163,7 +163,7 @@ export default function Home() {
                 <h4>リモートお申し込みプランで、<br className="sp"/>成約プロセスを高速化！</h4>
                 <ul className="item01_dlbox">
                   <li className="dlbox01">
-                    <p className="dlbox01_title">ダウンロード資料でわかること</p> 
+                    <p className="dlbox01_title">ダウンロード資料でわかること</p>
                     <div className="dlbox01_body">
                       <ul>
                         <li>解決できること</li>
@@ -173,18 +173,18 @@ export default function Home() {
                         <li>使い方</li>
                         <li>仕様</li>
                       </ul>
-                      <p className="image"><img src="/_nuxt/img/rcBook_pc.7f2037b.png"/></p>
+                      <p className="image"><img src="/images/lp/lp01/rcBook_pc.png"/></p>
                       <a className="dl_button">今すぐ資料ダウンロード</a>
                     </div>
                   </li>
                   <li className="dlbox02">
-                    <p className="dlbox02_title">無料デモ体験でできること</p> 
+                    <p className="dlbox02_title">無料デモ体験でできること</p>
                     <div className="dlbox02_body">
                       <ul>
                         <li>実際に弊社営業から<br className="sp"/>デモを体感できる</li>
                         <li>その場で質問できる</li>
                       </ul>
-                      <p className="image"><img src="/_nuxt/img/sec01_operator.2d36f05.png"/></p>
+                      <p className="image"><img src="/images/lp/lp01/sec01_operator.png"/></p>
                       <a className="dl_button">今すぐ無料デモ体験</a>
                     </div>
                   </li>
@@ -192,7 +192,7 @@ export default function Home() {
               </div>
             </div>
           </section>
-          
+
           <section id="sec_03">
             <div className="sec03_box01">
               <div className="box01_item01">
@@ -203,21 +203,21 @@ export default function Home() {
             <div className="sec03_box02">
               <div className="box02_item01">
                 <h3>こんなシーンで<br className="sp"/>“リモートお申し込みプラン”</h3>
- 
+
                 <ul>
-                  <li><p>生命保険の契約手続き</p> <img src="/_nuxt/img/sec03_scene01.326290c.png" className="bottom"/></li>
-                  <li><p>通信回線・スマホのお申し込み</p> <img src="/_nuxt/img/sec03_scene02.0cc4908.png" className="bottom"/></li>
-                  <li><p>損害保険の支払い手続き</p> <img src="/_nuxt/img/sec03_scene03.d05fc65.png" className="bottom"/></li>
-                  <li><p>銀行窓口での契約手続き</p> <img src="/_nuxt/img/sec03_scene04.a8b33a4.png" className="bottom"/></li>
-                  <li><p>コールセンターの顧客対応</p> <img src="/_nuxt/img/sec03_scene05.da9149d.png" className="bottom"/></li>
-                  <li><p>電話営業のクロージング</p> <img src="/_nuxt/img/sec03_scene06.f7e757c.png" className="bottom"/></li>
+                  <li><p>生命保険の契約手続き</p> <img src="/images/lp/lp01/sec03_scene01.png" className="bottom"/></li>
+                  <li><p>通信回線・スマホのお申し込み</p> <img src="/images/lp/lp01/sec03_scene02.png" className="bottom"/></li>
+                  <li><p>損害保険の支払い手続き</p> <img src="/images/lp/lp01/sec03_scene03.png" className="bottom"/></li>
+                  <li><p>銀行窓口での契約手続き</p> <img src="/images/lp/lp01/sec03_scene04.png" className="bottom"/></li>
+                  <li><p>コールセンターの顧客対応</p> <img src="/images/lp/lp01/sec03_scene05.png" className="bottom"/></li>
+                  <li><p>電話営業のクロージング</p> <img src="/images/lp/lp01/sec03_scene06.png" className="bottom"/></li>
                 </ul>
               </div>
               <div className="box02_item02">
                 <h3>お客様のお声</h3>
                 <div className="item02_company">
                   <div className="company_intro">
-                    <img src="/_nuxt/img/sec03_retty_logo.5ad042d.png" className="logo"/>
+                    <img src="/images/lp/lp01/sec03_retty_logo.png" className="logo"/>
                     <p className="intro">口頭内示からお申し込み書<br className="sp"/>回収に至る<br className="pc"/>工数・コスト・<br className="sp"/>精神的負担を解消。<br/>機会損失リスクも低減。</p>
                     <p className="name">Retty株式会社</p>
                   </div>
@@ -233,7 +233,7 @@ export default function Home() {
           <section id="sec_04">
             <div className="sec04_box01">
               <div className="box01_item01">
-                <h2>私たちは、国内シェアNo.1の<br/>オンライン営業システム<br className="sp"/>「bellFace」の<br/>開発・販売を行う<br className="sp"/>ベルフェイス株式会社です。</h2> 
+                <h2>私たちは、国内シェアNo.1の<br/>オンライン営業システム<br className="sp"/>「bellFace」の<br/>開発・販売を行う<br className="sp"/>ベルフェイス株式会社です。</h2>
                 <p>営業プロセスのDX化を通じて、<br/>貴社の営業組織の課題を抽出し、<br className="sp"/>最適なDX戦略を共創します。</p>
                 <a href="/" target="_blank">ベルフェイスのサービスサイトはこちら</a>
               </div>
@@ -245,7 +245,7 @@ export default function Home() {
                   <li className="dlbox01">
                     <p className="dlbox01_title">ダウンロード資料でわかること</p>
                     <div className="dlbox01_body">
-                      <p className="image"><img src="/_nuxt/img/rcBook_pc.7f2037b.png"/></p> 
+                      <p className="image"><img src="/images/lp/lp01/rcBook_pc.png"/></p>
                       <ul>
                         <li>解決できること</li>
                         <li>料金</li>
@@ -263,17 +263,17 @@ export default function Home() {
                       <ul>
                         <li>実際に弊社営業から<br className="sp"/>デモを<br className="pc"/>体感できる</li>
                         <li>その場で質問できる</li>
-                      </ul> 
-                      
-                      <p className="image"><img src="/_nuxt/img/sec01_operator.2d36f05.png"/></p><a className="dl_button sp">今すぐ無料デモ体験</a>
-                        
+                      </ul>
+
+                      <p className="image"><img src="/images/lp/lp01/sec01_operator.png"/></p><a className="dl_button sp">今すぐ無料デモ体験</a>
+
                     </div>
                   </li>
                 </ul>
               </div>
             </div>
           </section>
-        
+
       </div>
     </main>
     // フォームとフッター
