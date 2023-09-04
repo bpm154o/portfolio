@@ -1,5 +1,6 @@
 // import Image from 'next/image'
-import styles from '../page.module.css'
+// import styles from 'app/globals.css'
+import 'src/styles/lp.scss'
 
 export default function Home() {
   return (
@@ -43,7 +44,7 @@ export default function Home() {
               <ul className="item01_graph01">
                 <li><h4><span>紙の書類でのお申し込み</span><br/>お申し込みの手続きをした際、<br/>何かしら面倒に感じましたか？</h4>
                 <img src="/images/lp/lp01/sec01_graph01_01.png" /></li>
-                <li><h4><span>Webフォームでのお申し込み</span><br/>お申し込みの手続きをした際、<br/>何かしら面倒に感じましたか？</h4> <img src="/images/lp/lp01/sec01_graph01_02.833208e.png"/></li>
+                <li><h4><span>Webフォームでのお申し込み</span><br/>お申し込みの手続きをした際、<br/>何かしら面倒に感じましたか？</h4> <img src="/images/lp/lp01/sec01_graph01_02.png"/></li>
               </ul>
               <span className="note">2021年 ベルフェイス調べ</span></div>
               <div className="box02_item02">
@@ -74,7 +75,7 @@ export default function Home() {
                         <li>仕様</li>
                       </ul>
                       <p className="image">
-                        <img src="/images/lp/lp01/rcBook_pc.7f2037b.png"/>
+                        <img src="/images/lp/lp01/rcBook_pc.png"/>
                       </p>
                       <a className="dl_button">今すぐ資料ダウンロード</a>
                     </div>
