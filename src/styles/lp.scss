@@ -255,8 +255,7 @@ caption,td,th {
         content: "";
         display: block;
         position: absolute;
-        background: url(/images/lp/lp01/sec01_title02.png) #f2f2f2 no-repeat 200%
-          50%/740px;
+        background: url(/images/lp/lp01/sec01_title02.png) #f2f2f2 no-repeat 200% 50%/740px;
         width: 720px;
         z-index: -1;
       }
@@ -440,8 +439,6 @@ caption,td,th {
             .dlbox01_title {
               background: #e1f0fa;
               color: #004b8c;
-            }
-            .dlbox01_title {
               font-size: 16px;
               font-weight: 700;
               letter-spacing: 2.4px;
@@ -547,8 +544,8 @@ caption,td,th {
               display: flex;
               background: #ffebe1;
               color: #c85000;
-              }
             }
+
             .dlbox02_body {
               position: relative;
               height: 208px;
@@ -629,6 +626,7 @@ caption,td,th {
         }
       }
     }
+  }
 
   #sec_02 {
     position: relative;
