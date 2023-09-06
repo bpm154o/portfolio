@@ -1,0 +1,137 @@
+body,html {
+  font-weight: 400;
+  color: #484848;
+  font-family: 'Roboto Mono', monospace, 'Noto Sans JP', sans-serif;
+  a {
+    text-decoration: underline;
+    &:hover {
+      opacity: 0.8;
+      text-decoration: none;
+    }
+  }
+}
+header {
+  background-color: #edf2f7;
+  div {
+    max-width: 1200px;
+    padding: 20px;
+    margin: 0 auto;
+    position: fixed;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    background-color: #edf2f7;
+    position: fixed;
+    ul {
+      margin-right: auto;
+      display: flex;
+      justify-content: flex-end;
+      list-style-type: none;
+      li {
+        margin-left: 10px;
+      }
+    }
+  }
+
+}
+.content {
+  width: 100%;
+  background-color: #edf2f7;
+  padding-top: 100px;
+  .about {
+    width: 700px;
+    margin: 0 auto;
+    h1 {
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    dl {
+      display: flex;
+      flex-wrap: wrap;
+      width: 100%;
+      dt {
+        width: 27%;
+        margin-bottom: 5px;
+        padding-right: 10px;
+        text-align: right;
+      }
+      dd {
+        width: 73%;
+        margin-bottom: 5px;
+        ul {
+          li {
+            list-style-type: none;
+            .date {
+              font-weight: 900;
+              font-size: 14px;
+            }
+            .place {
+              font-weight: 900;
+              font-size: 16px;
+            }
+            .intro {
+              padding-left: 8px;
+              font-size: 15px;
+              margin-bottom: 10px;
+            }
+          }
+        }
+        ol {
+          list-style-type: auto;
+          padding-left: 22px;
+          li {
+            list-style-type: auto;
+          }
+        }
+      }
+    }
+  }
+  .portfolio {
+    width: 800px;
+    margin: 0 auto;
+    padding-top: 100px;
+    h1 {
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    .card_wrapper {
+      display: flex;
+      flex-wrap: wrap;
+      .card {
+        width: 48%;
+        background-color: #FFF;
+        border-radius: 5px;
+        overflow: hidden;
+        margin-bottom: 40px;
+        box-shadow: 4px 4px 1px rgb(210 210 210 / 60%);
+        border: #D2D2D2 1px solid;
+        &:nth-child(even){
+          margin-left: auto;
+        }
+        .image_area {
+          height: 230px;
+          img {
+            width: 100%;
+          }
+        }
+        dl {
+          padding-top: 10px;
+          padding-right: 15px;
+          padding-bottom: 15px;
+          padding-left: 15px;
+          dt{
+            font-weight: bold;
+          }
+          dd {
+            margin-bottom: 8px;
+
+          }
+        }
+
+      }
+    }
+
+
+  }
+
+}
