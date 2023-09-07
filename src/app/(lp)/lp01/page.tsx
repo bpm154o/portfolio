@@ -1,6 +1,6 @@
 // import Image from 'next/image'
 // import styles from 'app/globals.css'
-import 'src/styles/lp.scss'
+import 'assets/css/lp.scss'
 
 export default function Home() {
   return (
