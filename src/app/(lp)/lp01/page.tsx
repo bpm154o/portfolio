@@ -4,9 +4,6 @@ import 'src/styles/lp.scss'
 
 export default function Home() {
   return (
-    // <main>
-    //     <p>aaaaaaaaaaa</p>
-    // </main>
     <main>
       <div className="wrap">
         <section id="fv">
